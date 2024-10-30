@@ -1,0 +1,3 @@
+[submodule "OpenHumanIO"]
+	path = OpenHumanIO
+	url = ssh://git@gitea.motorica.tech:2222/m.sintsov/OpenHumanIO.git
